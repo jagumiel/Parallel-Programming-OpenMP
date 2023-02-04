@@ -8,10 +8,10 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <stddef.h> //Contains definition for "NULL".
+#include <stddef.h>		//Contains definition for "NULL".
 #include <omp.h>
 #include <time.h>
-#include <x86intrin.h>
+#include <x86intrin.h>	//Needed for tick counting.
 #include <stdlib.h>
 #include <stddef.h>
 
