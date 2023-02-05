@@ -12,8 +12,6 @@
 #include <omp.h>
 #include <time.h>
 #include <x86intrin.h>	//Needed for tick counting.
-#include <stdlib.h>
-#include <stddef.h>
 
 #define N 100
 
